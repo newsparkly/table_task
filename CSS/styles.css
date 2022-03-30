@@ -1,0 +1,57 @@
+body {
+  background-color: #00ffff;
+}
+caption {
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 900;
+  font-size: 27px;
+}
+table {
+  width: 995px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  font-size: 20px;
+  height: 470px;
+}
+th,
+tr,
+td,
+table {
+  border: 1px solid #000;
+}
+tr {
+  height: 60px;
+}
+.day {
+  font-size: 66px;
+  width: 200px;
+}
+.seminar {
+}
+.schedule {
+  width: 300px;
+}
+.end {
+  width: 185px;
+  margin-bottom: 10px;
+}
+.topic {
+  width: 100px;
+}
+.monday {
+  height: -50px;
+}
+.clock1 {
+  background-color: #fea500;
+}
+.clock2 {
+  background-color: #0000fe;
+}
+.clock3 {
+  background-color: #008001;
+}
+* {
+  border-spacing: 8px;
+}
